@@ -26,8 +26,6 @@ def convert_github_url_to_raw(url: str) -> str:
     """
     if "github.com" in url and "/blob/" in url:
         new_url = url.replace("github.com", "raw.githubusercontent.com").replace("/blob/", "/")
-        # LOGGING: Keep this minimal as it's a helper
-        # print(f"Converted GitHub URL to raw: {new_url}")
         return new_url
     return url
 
@@ -69,10 +67,12 @@ def get_processed_content_from_url(url: str) -> str:
             return content
             
     except requests.RequestException as e:
-        print(f"    - [ERROR] Failed to fetch {processed_url[:70]...}: {e}")
+        # FIX: Corrected the f-string syntax by removing "..."
+        print(f"    - [ERROR] Failed to fetch {processed_url[:70]}: {e}")
         return None
     except Exception as e:
-        print(f"    - [ERROR] Failed to process content from {processed_url[:70]...}: {e}")
+        # FIX: Corrected the f-string syntax by removing "..."
+        print(f"    - [ERROR] Failed to process content from {processed_url[:70]}: {e}")
         return None
 
 # --- Main Logic ---
@@ -103,7 +103,6 @@ def main():
             
             sources_part, output_name = parts[0].strip(), parts[1].strip()
             
-            # --- NEW PROFESSIONAL LOGGING START ---
             print(f"\n{'='*20} Processing Output File: {output_name} {'='*20}")
             
             individual_urls = [s.strip() for s in sources_part.split('|')]
@@ -114,14 +113,11 @@ def main():
                 print(f"  [{i+1}/{len(individual_urls)}] Fetching from source...")
                 content = get_processed_content_from_url(url)
                 if content is not None:
-                    # LOGGING: Report lines fetched from this specific URL
                     line_count = len(content.splitlines())
                     print(f"    - [SUCCESS] Fetched {line_count} lines of content.")
                     all_contents.append(content)
                 else:
-                    # LOGGING: Explicitly state that this source failed
                     print(f"    - [FAILURE] No content retrieved from this source.")
-
             
             if not all_contents:
                 print(f"[FINAL WARNING] Could not fetch any valid content for '{output_name}'. Skipping.")
@@ -139,14 +135,13 @@ def main():
             print(f"  - Total unique (non-empty) lines after deduplication: {len(unique_lines)}")
             
             final_content = "\n".join(unique_lines)
-            
-            # --- LOGGING END ---
 
             normal_path = Path(NORMAL_DIR) / f"{output_name}.txt"
             normal_path.write_text(final_content, encoding='utf-8')
 
             base64_final_content = base64.b64encode(final_content.encode('utf-8')).decode('utf-8')
-            base64_path = Path(BASE64_DIR) / f"{base64_dir}/{output_name}.b64"
+            # FIX: Corrected the path creation for the base64 file.
+            base64_path = Path(BASE64_DIR) / f"{output_name}.b64"
             base64_path.write_text(base64_final_content, encoding='utf-8')
             
             print(f"\n[FINAL STATUS] Processed '{output_name}': created {normal_path} and {base64_path}")
