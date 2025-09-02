@@ -20,26 +20,30 @@ if not GITHUB_REPO:
 
 # --- Helper Functions ---
 
+def convert_github_url_to_raw(url: str) -> str:
+    """
+    Converts a standard GitHub file URL to its raw content URL.
+    e.g., https://github.com/user/repo/blob/main/file.txt -> https://raw.githubusercontent.com/user/repo/main/file.txt
+    If the URL is not a standard GitHub blob URL, it returns it unchanged.
+    """
+    if "github.com" in url and "/blob/" in url:
+        new_url = url.replace("github.com", "raw.githubusercontent.com").replace("/blob/", "/")
+        print(f"Converted GitHub URL to raw: {new_url}")
+        return new_url
+    return url
+
 def is_base64(s: str) -> bool:
     """
     Checks if a string is a valid Base64 encoded string.
-    It must contain only valid Base64 characters and have correct padding.
-    A simple text like "hello world" will fail this check.
-    A long subscription link will pass.
     """
-    # A regex to check for valid Base64 characters.
-    # It allows for multiline Base64 by ignoring whitespace.
     if not re.match(r'^[A-Za-z0-9+/=\s]+$', s.strip()):
         return False
         
-    # Remove any whitespace (like newlines) before decoding
     s_cleaned = "".join(s.split())
     
     try:
-        # Add padding if it's missing for a correct check
         s_padded = s_cleaned + '=' * (-len(s_cleaned) % 4)
         decoded_bytes = base64.b64decode(s_padded, validate=True)
-        # Re-encode and check if it matches the original. This is a strong validation.
         return base64.b64encode(decoded_bytes).decode('utf-8') == s_padded
     except (ValueError, TypeError):
         return False
@@ -48,29 +52,31 @@ def get_processed_content_from_url(url: str) -> str:
     """
     Fetches content from a URL, auto-detects if it's Base64 encoded,
     decodes it if necessary, and returns the final plain text.
+    Handles GitHub URL conversion and has a 30-second timeout.
     Returns None on failure.
     """
+    # NEW: Automatically convert standard GitHub links to raw links
+    processed_url = convert_github_url_to_raw(url)
+
     try:
-        response = requests.get(url, timeout=15)
+        # NEW: Timeout increased to 30 seconds
+        response = requests.get(processed_url, timeout=30)
         response.raise_for_status()
         content = response.text
         
-        # Check if the fetched content is likely Base64
         if is_base64(content):
-            print(f"Detected Base64 content from {url}")
-            # Clean whitespace before decoding
+            print(f"Detected Base64 content from {processed_url}")
             cleaned_content = "".join(content.split())
             decoded_bytes = base64.b64decode(cleaned_content)
             return decoded_bytes.decode('utf-8')
         else:
-            # If not Base64, return as plain text
             return content
             
     except requests.RequestException as e:
-        print(f"Error fetching URL {url}: {e}")
+        print(f"Error fetching URL {processed_url}: {e}")
         return None
     except Exception as e:
-        print(f"Error processing content from {url}: {e}")
+        print(f"Error processing content from {processed_url}: {e}")
         return None
 
 # --- Main Logic ---
@@ -78,8 +84,6 @@ def get_processed_content_from_url(url: str) -> str:
 def main():
     """
     Main function to process links, generate files, and update the README.
-    It auto-detects and decodes Base64 content from URLs.
-    Format for links.txt: url1|url2...,output_name
     """
     Path(NORMAL_DIR).mkdir(exist_ok=True)
     Path(BASE64_DIR).mkdir(exist_ok=True)
@@ -117,11 +121,9 @@ def main():
 
             combined_content = "\n".join(all_contents)
 
-            # 1. Save normal text file
             normal_path = Path(NORMAL_DIR) / f"{output_name}.txt"
             normal_path.write_text(combined_content, encoding='utf-8')
 
-            # 2. Save Base64 encoded file (re-encoding the final combined content)
             base64_final_content = base64.b64encode(combined_content.encode('utf-8')).decode('utf-8')
             base64_path = Path(BASE64_DIR) / f"{output_name}.b64"
             base64_path.write_text(base64_final_content, encoding='utf-8')
@@ -133,7 +135,6 @@ def main():
                 "base64_path": base64_path.as_posix()
             })
 
-    # 3. Update README.md
     update_readme(processed_files)
     print("README.md has been updated.")
 
