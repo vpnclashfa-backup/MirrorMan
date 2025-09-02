@@ -55,11 +55,9 @@ def get_processed_content_from_url(url: str) -> str:
     Handles GitHub URL conversion and has a 30-second timeout.
     Returns None on failure.
     """
-    # NEW: Automatically convert standard GitHub links to raw links
     processed_url = convert_github_url_to_raw(url)
 
     try:
-        # NEW: Timeout increased to 30 seconds
         response = requests.get(processed_url, timeout=30)
         response.raise_for_status()
         content = response.text
@@ -119,12 +117,25 @@ def main():
                 print(f"Warning: Could not fetch any valid content for '{output_name}'. Skipping.")
                 continue
 
-            combined_content = "\n".join(all_contents)
+            # NEW LOGIC: Combine contents with a blank line and remove duplicates.
+            
+            # 1. Combine all contents with a double newline (blank line)
+            # We also strip each content to avoid extra blank lines at the start/end
+            raw_combined_content = "\n\n".join(c.strip() for c in all_contents)
+
+            # 2. Remove duplicate lines while preserving order
+            lines = raw_combined_content.splitlines()
+            unique_lines = list(dict.fromkeys(line for line in lines if line.strip())) # Also remove empty lines
+            
+            # 3. Join the unique lines back into the final content
+            final_content = "\n".join(unique_lines)
+
+            # --- End of New Logic ---
 
             normal_path = Path(NORMAL_DIR) / f"{output_name}.txt"
-            normal_path.write_text(combined_content, encoding='utf-8')
+            normal_path.write_text(final_content, encoding='utf-8')
 
-            base64_final_content = base64.b64encode(combined_content.encode('utf-8')).decode('utf-8')
+            base64_final_content = base64.b64encode(final_content.encode('utf-8')).decode('utf-8')
             base64_path = Path(BASE64_DIR) / f"{output_name}.b64"
             base64_path.write_text(base64_final_content, encoding='utf-8')
             
