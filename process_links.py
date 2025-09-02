@@ -23,12 +23,11 @@ if not GITHUB_REPO:
 def convert_github_url_to_raw(url: str) -> str:
     """
     Converts a standard GitHub file URL to its raw content URL.
-    e.g., https://github.com/user/repo/blob/main/file.txt -> https://raw.githubusercontent.com/user/repo/main/file.txt
-    If the URL is not a standard GitHub blob URL, it returns it unchanged.
     """
     if "github.com" in url and "/blob/" in url:
         new_url = url.replace("github.com", "raw.githubusercontent.com").replace("/blob/", "/")
-        print(f"Converted GitHub URL to raw: {new_url}")
+        # LOGGING: Keep this minimal as it's a helper
+        # print(f"Converted GitHub URL to raw: {new_url}")
         return new_url
     return url
 
@@ -52,8 +51,6 @@ def get_processed_content_from_url(url: str) -> str:
     """
     Fetches content from a URL, auto-detects if it's Base64 encoded,
     decodes it if necessary, and returns the final plain text.
-    Handles GitHub URL conversion and has a 30-second timeout.
-    Returns None on failure.
     """
     processed_url = convert_github_url_to_raw(url)
 
@@ -63,25 +60,26 @@ def get_processed_content_from_url(url: str) -> str:
         content = response.text
         
         if is_base64(content):
-            print(f"Detected Base64 content from {processed_url}")
+            print(f"    - [Base64 Detected] Processing URL: {processed_url[:70]}...")
             cleaned_content = "".join(content.split())
             decoded_bytes = base64.b64decode(cleaned_content)
             return decoded_bytes.decode('utf-8')
         else:
+            print(f"    - [Plain Text] Processing URL: {processed_url[:70]}...")
             return content
             
     except requests.RequestException as e:
-        print(f"Error fetching URL {processed_url}: {e}")
+        print(f"    - [ERROR] Failed to fetch {processed_url[:70]...}: {e}")
         return None
     except Exception as e:
-        print(f"Error processing content from {processed_url}: {e}")
+        print(f"    - [ERROR] Failed to process content from {processed_url[:70]...}: {e}")
         return None
 
 # --- Main Logic ---
 
 def main():
     """
-    Main function to process links, generate files, and update the README.
+    Main function with enhanced logging to debug content combination.
     """
     Path(NORMAL_DIR).mkdir(exist_ok=True)
     Path(BASE64_DIR).mkdir(exist_ok=True)
@@ -105,41 +103,55 @@ def main():
             
             sources_part, output_name = parts[0].strip(), parts[1].strip()
             
+            # --- NEW PROFESSIONAL LOGGING START ---
+            print(f"\n{'='*20} Processing Output File: {output_name} {'='*20}")
+            
             individual_urls = [s.strip() for s in sources_part.split('|')]
+            print(f"Found {len(individual_urls)} source(s) for this file.")
             
             all_contents = []
-            for url in individual_urls:
+            for i, url in enumerate(individual_urls):
+                print(f"  [{i+1}/{len(individual_urls)}] Fetching from source...")
                 content = get_processed_content_from_url(url)
                 if content is not None:
+                    # LOGGING: Report lines fetched from this specific URL
+                    line_count = len(content.splitlines())
+                    print(f"    - [SUCCESS] Fetched {line_count} lines of content.")
                     all_contents.append(content)
+                else:
+                    # LOGGING: Explicitly state that this source failed
+                    print(f"    - [FAILURE] No content retrieved from this source.")
+
             
             if not all_contents:
-                print(f"Warning: Could not fetch any valid content for '{output_name}'. Skipping.")
+                print(f"[FINAL WARNING] Could not fetch any valid content for '{output_name}'. Skipping.")
+                print(f"{'='* (58 + len(output_name))}")
                 continue
 
-            # NEW LOGIC: Combine contents with a blank line and remove duplicates.
+            print(f"\n  Combining content for '{output_name}':")
+            print(f"  - Successfully fetched content from {len(all_contents)} out of {len(individual_urls)} sources.")
             
-            # 1. Combine all contents with a double newline (blank line)
-            # We also strip each content to avoid extra blank lines at the start/end
             raw_combined_content = "\n\n".join(c.strip() for c in all_contents)
+            total_lines = raw_combined_content.splitlines()
+            print(f"  - Total lines before deduplication: {len(total_lines)}")
 
-            # 2. Remove duplicate lines while preserving order
-            lines = raw_combined_content.splitlines()
-            unique_lines = list(dict.fromkeys(line for line in lines if line.strip())) # Also remove empty lines
+            unique_lines = list(dict.fromkeys(line for line in total_lines if line.strip()))
+            print(f"  - Total unique (non-empty) lines after deduplication: {len(unique_lines)}")
             
-            # 3. Join the unique lines back into the final content
             final_content = "\n".join(unique_lines)
-
-            # --- End of New Logic ---
+            
+            # --- LOGGING END ---
 
             normal_path = Path(NORMAL_DIR) / f"{output_name}.txt"
             normal_path.write_text(final_content, encoding='utf-8')
 
             base64_final_content = base64.b64encode(final_content.encode('utf-8')).decode('utf-8')
-            base64_path = Path(BASE64_DIR) / f"{output_name}.b64"
+            base64_path = Path(BASE64_DIR) / f"{base64_dir}/{output_name}.b64"
             base64_path.write_text(base64_final_content, encoding='utf-8')
             
-            print(f"Processed '{output_name}' (from {len(all_contents)} sources): created {normal_path} and {base64_path}")
+            print(f"\n[FINAL STATUS] Processed '{output_name}': created {normal_path} and {base64_path}")
+            print(f"{'='* (58 + len(output_name))}")
+
             processed_files.append({
                 "name": output_name,
                 "normal_path": normal_path.as_posix(),
@@ -147,7 +159,7 @@ def main():
             })
 
     update_readme(processed_files)
-    print("README.md has been updated.")
+    print("\nREADME.md has been updated.")
 
 
 def update_readme(processed_files):
