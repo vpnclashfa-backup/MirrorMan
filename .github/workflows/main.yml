@@ -4,10 +4,10 @@ name: Daily Links Processor
 # --- Triggers ---
 # Specifies when this action should be run.
 on:
-  # 1. Scheduled run: Executes automatically at a specific time.
+   1. Scheduled run: Executes automatically at a specific time.
   #schedule:
     # Runs at 23:16 UTC, which corresponds to 2:46 AM in Iran Standard Time (IRST, UTC+3:30).
-   # - cron: '16 23 * * *'
+    - cron: '16 23 * * *'
   
   # 2. Manual trigger: Allows running this workflow manually from the Actions tab in GitHub.
   workflow_dispatch:
