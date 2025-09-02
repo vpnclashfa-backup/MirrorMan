@@ -2,71 +2,62 @@
 name: Daily Links Processor
 
 # --- Triggers ---
-# Specifies when this action should be run.
 on:
-  # 1. Scheduled run: Executes automatically at a specific time.
   schedule:
     # Runs at 23:16 UTC, which corresponds to 2:46 AM in Iran Standard Time (IRST, UTC+3:30).
     - cron: '16 23 * * *'
   
-  # 2. Manual trigger: Allows running this workflow manually from the Actions tab in GitHub.
   workflow_dispatch:
 
 # --- Jobs ---
-# A workflow run is made up of one or more jobs.
 jobs:
-  # The main job of this workflow.
   process-links:
-    # The type of runner that the job will run on.
     runs-on: ubuntu-latest
 
-    # A sequence of tasks called "steps" that will be executed.
     steps:
       # Step 1: Check out the repository's code
-      # This allows the workflow to access the repository files (like process_links.py).
       - name: Check out repository
         uses: actions/checkout@v4
 
       # Step 2: Set up Python environment
-      # Installs a specific version of Python on the runner.
       - name: Set up Python 3.x
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x' # Use the latest available 3.x version
+          python-version: '3.x'
 
-      # Step 3: Install Python dependencies
-      # Reads the requirements.txt file and installs the specified libraries using pip.
-      - name: Install dependencies
+      # NEW Step 3: Install Google Chrome and System Dependencies
+      # Selenium requires a browser and its driver. This step installs the Chrome browser itself.
+      - name: Install Google Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget gnupg
+          wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+          sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+
+      # Step 4: Install Python dependencies (including Selenium)
+      - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # Step 4: Run the Python script
-      # Executes the main script to process links and generate output files.
-      # The GITHUB_REPOSITORY environment variable is automatically provided by the runner.
+      # Step 5: Run the advanced Python script
+      # This now runs the Selenium-based script which controls the installed Chrome browser.
       - name: Run link processing script
         run: python process_links.py
 
-      # Step 5: Commit and push changes
-      # Commits the generated files (in normal/, base64/) and the updated README.md.
+      # Step 6: Commit and push changes
       - name: Commit and push changes
         run: |
-          # Configure git with a bot user identity
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-          # Add all new or modified files to the staging area
-          # The "." stages everything in the current directory.
           git add .
           
-          # Check if there are any changes to commit.
-          # 'git status --porcelain' will be empty if there are no changes.
           if [ -z "$(git status --porcelain)" ]; then
             echo "No changes to commit."
           else
-            # Create a commit with a descriptive message including the current date
             git commit -m "Automated update: $(date -u)"
-            
-            # Push the changes to the 'main' branch of the repository
             git push
           fi
