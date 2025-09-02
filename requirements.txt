@@ -1,4 +1,4 @@
 requests
 pytz
 selenium
-webdriver-manager
+undetected-chromedriver
