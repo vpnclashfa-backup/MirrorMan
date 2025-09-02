@@ -1,6 +1,6 @@
 # Processed Links Collection
 
-Last updated: `2025-09-02 18:52:28 +0330`
+Last updated: `2025-m-02 19:10:56 +0330`
 
 This repository contains automatically processed lists from various sources.
 
@@ -12,5 +12,6 @@ This repository contains automatically processed lists from various sources.
 | `gheychiamoozesh` | [Link](https://raw.githubusercontent.com/vpnclashfa-backup/MirrorMan/main/normal/gheychiamoozesh.txt) | [Link](https://raw.githubusercontent.com/vpnclashfa-backup/MirrorMan/main/base64/gheychiamoozesh.b64) |
 | `hamedp-71_Sub_Checker_Creator_final` | [Link](https://raw.githubusercontent.com/vpnclashfa-backup/MirrorMan/main/normal/hamedp-71_Sub_Checker_Creator_final.txt) | [Link](https://raw.githubusercontent.com/vpnclashfa-backup/MirrorMan/main/base64/hamedp-71_Sub_Checker_Creator_final.b64) |
 | `hamedp-71_Trojan_hp` | [Link](https://raw.githubusercontent.com/vpnclashfa-backup/MirrorMan/main/normal/hamedp-71_Trojan_hp.txt) | [Link](https://raw.githubusercontent.com/vpnclashfa-backup/MirrorMan/main/base64/hamedp-71_Trojan_hp.b64) |
+| `shadowmere` | [Link](https://raw.githubusercontent.com/vpnclashfa-backup/MirrorMan/main/normal/shadowmere.txt) | [Link](https://raw.githubusercontent.com/vpnclashfa-backup/MirrorMan/main/base64/shadowmere.b64) |
 | `the3rf_com_sub_php` | [Link](https://raw.githubusercontent.com/vpnclashfa-backup/MirrorMan/main/normal/the3rf_com_sub_php.txt) | [Link](https://raw.githubusercontent.com/vpnclashfa-backup/MirrorMan/main/base64/the3rf_com_sub_php.b64) |
 | `v2nodes` | [Link](https://raw.githubusercontent.com/vpnclashfa-backup/MirrorMan/main/normal/v2nodes.txt) | [Link](https://raw.githubusercontent.com/vpnclashfa-backup/MirrorMan/main/base64/v2nodes.b64) |
