@@ -1,0 +1,2 @@
+proxies:
+  - {name: 🇩🇪 Germany PO, server: 91.99.177.240, port: 443, client-fingerprint: chrome, type: vless, uuid: c39a101c-0a7b-4940-8e6a-f8346d70b24b, tls: false, tfo: true, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [zula.ir]}}, udp: true}
