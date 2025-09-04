@@ -1,4 +1,4 @@
-trojan://1@1.1.1.1:443?security=tls&sni=fake_ip_for_sub_link&type=tcp&headerType=none#/pub-%DB%B1%DB%B4%DB%B0%DB%B4-%DB%B0%DB%B6-%DB%B1%DB%B1%20%DB%B2%DB%B3%3A%DB%B2%DB%B8%20%E2%9D%A4%EF%B8%8F
+trojan://1@1.1.1.1:443?security=tls&sni=fake_ip_for_sub_link&type=tcp&headerType=none#/pub-%DB%B1%DB%B4%DB%B0%DB%B4-%DB%B0%DB%B6-%DB%B1%DB%B3%20%DB%B2%DB%B3%3A%DB%B2%DB%B9%20%E2%9D%A4%EF%B8%8F
 vless://f599eb06-508a-4e24-9d59-4c50bf0332b8@91.98.79.239:443?encryption=none&security=tls&sni=plaza.ir&alpn=h2&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=JCG7HcKpCWxijB2PP2bFqNR7h7F8&mode=gun#grpc%20direct%20vless
 vless://f599eb06-508a-4e24-9d59-4c50bf0332b8@91.98.79.239:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tempail.com&alpn=http%2F1.1&fp=chrome&pbk=6wcvf78pdo-cH395vAliVVWoc5x8LSBgXJCQEF8KbA8&sid=f47f400cc96a4e&type=tcp&headerType=none&host=tempail.com&allowInsecure=1#reality%20tcp%20direct%20vless
 vless://f599eb06-508a-4e24-9d59-4c50bf0332b8@91.98.79.239:443?encryption=none&security=tls&sni=plaza.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=plaza.ir&path=%2FJCG7HcKpCWxijB2IADOUXiAjgsQ6#WS%20direct%20vless
