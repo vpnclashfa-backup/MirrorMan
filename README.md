@@ -1,11 +1,12 @@
 # Processed Links Collection
 
-Last updated: `2025-09-06 03:09:04 +0330`
+Last updated: `2025-09-06 13:08:50 +0330`
 
 This repository contains automatically processed lists from various sources.
 
 | File Name | Normal Format (Raw) | Base64 Format (Raw) |
 |-----------|-----------------------|-----------------------|
+| `Danialsamadi_v2go_custom` | [Link](https://raw.githubusercontent.com/vpnclashfa-backup/MirrorMan/main/normal/Danialsamadi_v2go_custom.txt) | [Link](https://raw.githubusercontent.com/vpnclashfa-backup/MirrorMan/main/base64/Danialsamadi_v2go_custom.b64) |
 | `F0rc3Run_XX` | [Link](https://raw.githubusercontent.com/vpnclashfa-backup/MirrorMan/main/normal/F0rc3Run_XX.txt) | [Link](https://raw.githubusercontent.com/vpnclashfa-backup/MirrorMan/main/base64/F0rc3Run_XX.b64) |
 | `MatinGhanbari_v2ray-configs-super-sub` | [Link](https://raw.githubusercontent.com/vpnclashfa-backup/MirrorMan/main/normal/MatinGhanbari_v2ray-configs-super-sub.txt) | [Link](https://raw.githubusercontent.com/vpnclashfa-backup/MirrorMan/main/base64/MatinGhanbari_v2ray-configs-super-sub.b64) |
 | `amin_o__o_bitplatform` | [Link](https://raw.githubusercontent.com/vpnclashfa-backup/MirrorMan/main/normal/amin_o__o_bitplatform.txt) | [Link](https://raw.githubusercontent.com/vpnclashfa-backup/MirrorMan/main/base64/amin_o__o_bitplatform.b64) |
