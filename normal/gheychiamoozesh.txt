@@ -2,76 +2,50 @@ vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVy
 vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IHRydWUiLCJzY3kiOiJhdXRvIiwic25pIjoiZXJyb3IuZXJyb3IiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IElTIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pyFIC06IEBHaGV5Y2hpQW1vb3plc2gg2qnYp9mG2KfZhCDYqtmE2q/YsdmFIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vless://2a4a9d66-eafd-5c5a-a9df-864db9002ba9@185.255.178.188:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.255.178.188&encryption=none#0✅-تلگرام ما را دنبال کنید
-vless://2a4a9d66-eafd-5c5a-a9df-864db9002ba9@185.255.178.188:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.255.178.188&encryption=none#0✅-@GheychiAmoozesh
-vless://2a4a9d66-eafd-5c5a-a9df-864db9002ba9@185.255.178.188:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.255.178.188&encryption=none#0✅-زن-زندگی-آزادی
-vless://2a4a9d66-eafd-5c5a-a9df-864db9002ba9@185.255.178.188:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.255.178.188&encryption=none#1 ✂️-🇪🇪EE-last 14(@GheychiAmoozesh)
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IFxiIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IENMIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IENSIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IE5MIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IFRXIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEpQIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@188.42.88.243:2053?type=ws&encryption=none&host=dl1-uk-cdn.easy-upload.org&path=/&security=tls&sni=dl1-uk-cdn.easy-upload.org&fp=chrome&allowInsecure=1#0✅-تلگرام ما را دنبال کنید
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@188.42.88.243:2053?type=ws&encryption=none&host=dl1-uk-cdn.easy-upload.org&path=/&security=tls&sni=dl1-uk-cdn.easy-upload.org&fp=chrome&allowInsecure=1#0✅-@GheychiAmoozesh
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@188.42.88.243:2053?type=ws&encryption=none&host=dl1-uk-cdn.easy-upload.org&path=/&security=tls&sni=dl1-uk-cdn.easy-upload.org&fp=chrome&allowInsecure=1#0✅-زن-زندگی-آزادی
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@188.42.88.243:2053?type=ws&encryption=none&host=dl1-uk-cdn.easy-upload.org&path=/&security=tls&sni=dl1-uk-cdn.easy-upload.org&fp=chrome&allowInsecure=1#1 ✂️-🇬🇧GB-last 14(@GheychiAmoozesh)
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.80:443#2 ✂️-🇬🇧GB-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#3 ✂️-🇬🇧GB-last 14(@GheychiAmoozesh)
-vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd&security=none&encryption=none&type=xhttp&fp=chrome&allowInsecure=1#00✅-تلگرام ما را دنبال کنید
-vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd&security=none&encryption=none&type=xhttp&fp=chrome&allowInsecure=1#00✅-@GheychiAmoozesh
-vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd&security=none&encryption=none&type=xhttp&fp=chrome&allowInsecure=1#00✅-زن-زندگی-آزادی
-vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd&security=none&encryption=none&type=xhttp&fp=chrome&allowInsecure=1#01 ✂️-🇩🇪DE-last 14(@GheychiAmoozesh)
-vless://70465717-66ae-4756-b28a-ec5899e08b17@104.26.6.89:2095?path=/?ed=2095&security=none&encryption=none&host=ns.teHRantOlIdI.Ir&type=httpupgrade&fp=chrome&allowInsecure=1#02 ✂️-🇩🇪DE-last 14(@GheychiAmoozesh)
-vless://telegram-id-Arfilter@172.66.40.99:443?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=rws.2SeDkFjEuIxIjD0Ew9DvKcxoisiEk61.BlOg&fp=firefox&type=ws&sni=rws.2SeDkFjEuIxIjD0Ew9DvKcxoisiEk61.BlOg&allowInsecure=1#03 ✂️-🇩🇪DE-last 14(@GheychiAmoozesh)
-vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.7.237:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp&fp=chrome&allowInsecure=1#04 ✂️-🇩🇪DE-last 14(@GheychiAmoozesh)
-vless://14eba471-4623-4ed1-b937-f5b2206749bf@magazine.sentry-warrunner.xyz:443?mode=gun&security=reality&encryption=none&pbk=UrGT7bAn2UND3kx81QHACf_6qReN8V6_o70kZerONk4&fp=chrome&type=grpc&serviceName=Telegram-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers&sni=miro.com&sid=1c547814&allowInsecure=1#05 ✂️-🇩🇪DE-last 14(@GheychiAmoozesh)
-vless://804f6c86-6750-46e7-95fe-556108bf06c6@speedtestcustom.com:80?mode=auto&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=sharrded.global.ssl.fastly.net&type=xhttp&fp=chrome&allowInsecure=1#06 ✂️-🇩🇪DE-last 14(@GheychiAmoozesh)
-vless://f75501f6-9944-4701-9d53-4554e73dfce0@gozarfreebot.niniweblog.org:443?security=reality&encryption=none&pbk=k5ghCQjfzH-vo8dNajQbal17E9hzzn4PrcrZESd23y4&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=372a94d2f8009a94&allowInsecure=1#07 ✂️-🇩🇪DE-last 14(@GheychiAmoozesh)
-vless://5cbf2e86-3520-4461-cf3f-720f9766b28b@gozargahvpn-gozargahvpn-gozargahvpn.mymtn.sbs:443?type=tcp&path=/@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN&headerType=http&security=none&fp=chrome&allowInsecure=1#08 ✂️-🇩🇪DE-last 14(@GheychiAmoozesh)
-vless://630f7b7c-8e64-49d8-a23b-bf65e63c2b15@fx.ircloudmarket.com:80?mode=auto&path=/GaMeOpTiMiZeR?ed=2048&security=none&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false,+"xmux":+{"maxConcurrency":+"16-32",+"maxConnections":+0,+"cMaxReuseTimes":+"64-128",+"cMaxLifetimeMs":+0,+"hMaxRequestTimes":+"800-900",+"hKeepAlivePeriod":+0}}&host=sudo2011.ir&type=xhttp&fp=chrome&allowInsecure=1#09 ✂️-🇩🇪DE-last 14(@GheychiAmoozesh)
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEFVIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vless://8495462c-1140-48ac-9331-fdb8e1fde8fe@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&sni=638886055652728185.warsaw-prx-dnraaao.info&fp=random&type=ws&path=/zmgbizws&host=638886055652728185.warsaw-prx-dnraaao.info&encryption=none&allowInsecure=1#00✅-تلگرام ما را دنبال کنید
-vless://8495462c-1140-48ac-9331-fdb8e1fde8fe@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&sni=638886055652728185.warsaw-prx-dnraaao.info&fp=random&type=ws&path=/zmgbizws&host=638886055652728185.warsaw-prx-dnraaao.info&encryption=none&allowInsecure=1#00✅-@GheychiAmoozesh
-vless://8495462c-1140-48ac-9331-fdb8e1fde8fe@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&sni=638886055652728185.warsaw-prx-dnraaao.info&fp=random&type=ws&path=/zmgbizws&host=638886055652728185.warsaw-prx-dnraaao.info&encryption=none&allowInsecure=1#00✅-زن-زندگی-آزادی
-vless://8495462c-1140-48ac-9331-fdb8e1fde8fe@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&sni=638886055652728185.warsaw-prx-dnraaao.info&fp=random&type=ws&path=/zmgbizws&host=638886055652728185.warsaw-prx-dnraaao.info&encryption=none&allowInsecure=1#01 ✂️-🇫🇷FR-last 14(@GheychiAmoozesh)
-vless://60216396-9001-451a-aa7b-8e57bb4c6b50@195.42.233.135:443?security=tls&fp=chrome&type=ws&path=/pfrlouws&encryption=none&allowInsecure=1#02 ✂️-🇫🇷FR-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpic0pUblhEcFhJVW9ORUM0dnlGdjhJ@77.105.166.12:8594#03 ✂️-🇫🇷FR-last 14(@GheychiAmoozesh)
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.239:443?security=tls&fp=chrome&type=ws&path=/&encryption=none&allowInsecure=1#04 ✂️-🇫🇷FR-last 14(@GheychiAmoozesh)
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?security=&fp=chrome&type=grpc&encryption=none&allowInsecure=1#05 ✂️-🇫🇷FR-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOZ2o1UnVqT3I5TzlwaVNJdGZ2bDJF@77.105.166.12:8594#06 ✂️-🇫🇷FR-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXN2pmQ0lrVDBoTktKQjhiUkd6Zkpk@62.210.88.22:443#07 ✂️-🇫🇷FR-last 14(@GheychiAmoozesh)
-vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?security=&fp=chrome&type=ws&path=/?ed=2048&host=TW.kKpopH4Zmc.ZUlaIr.orG&encryption=none&allowInsecure=1#08 ✂️-🇫🇷FR-last 14(@GheychiAmoozesh)
-vless://f16293a9-500a-4c0a-b4d8-adad9efdfed2@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&sni=638886055652719137.warsaw-prx-dnraaao.info&fp=random&type=ws&path=/aghccwws&host=638886055652719137.warsaw-prx-dnraaao.info&encryption=none&allowInsecure=1#09 ✂️-🇫🇷FR-last 14(@GheychiAmoozesh)
-trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni=frt2.sshocean.net&allowInsecure=1&fp=chrome&type=tcp#10 ✂️-🇫🇷FR-last 14(@GheychiAmoozesh)
-vless://40510d0f-d4d1-4c86-9c8e-9d584da9710d@51.38.232.101:80?security=&fp=chrome&type=ws&path=/vless/&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&encryption=none&allowInsecure=1#11 ✂️-🇫🇷FR-last 14(@GheychiAmoozesh)
-vless://eb577431-3b16-4a8f-953b-7bcfb573b025@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&sni=638886055652729522.warsaw-prx-dnraaao.info&fp=chrome&type=ws&path=/kskoxmws&host=638886055652729522.warsaw-prx-dnraaao.info&encryption=none&allowInsecure=1#12 ✂️-🇫🇷FR-last 14(@GheychiAmoozesh)
-vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=/hxwdnrws&encryption=none#13 ✂️-🇫🇷FR-last 14(@GheychiAmoozesh)
-vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJob3N0IjoiQkxhWkUtZlJBLTY0LkJMYVpFQ0xPdUQuc2l0RSIsImlkIjoiYjdhY2Y0NGYtM2MzYS00MzBjLThlZDAtZmI2NGNjYzlhMTNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2a3dzcyIsInBvcnQiOiI0NDMiLCJwcyI6IjE0IOKcgu+4jy3wn4er8J+Ht0ZSLWxhc3QgMTQoQEdoZXljaGlBbW9vemVzaCkiLCJzY3kiOiJhdXRvIiwic25pIjoiQkxhWkUtZlJBLTY0LkJMYVpFQ0xPdUQuc2l0RSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiIsImZwIjoiY2hyb21lIiwiYWxsb3dJbnNlY3VyZSI6MX0=
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IFVTIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IElUIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEFNIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEdFIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEQiLCJzY3kiOiJhdXRvIiwic25pIjoiZXJyb3IuZXJyb3IiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEFSIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IFJTIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4p2MIEVycm9yOiBsaXN0IGVtcHR5Iiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEAiLCJzY3kiOiJhdXRvIiwic25pIjoiZXJyb3IuZXJyb3IiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
-vless://837e8299-4b55-411a-8d91-ca4af0a9c5e7@free.lithub.ir:250?type=tcp&encryption=none&fp=chrome&allowInsecure=1#0✅-تلگرام ما را دنبال کنید
-vless://837e8299-4b55-411a-8d91-ca4af0a9c5e7@free.lithub.ir:250?type=tcp&encryption=none&fp=chrome&allowInsecure=1#0✅-@GheychiAmoozesh
-vless://837e8299-4b55-411a-8d91-ca4af0a9c5e7@free.lithub.ir:250?type=tcp&encryption=none&fp=chrome&allowInsecure=1#0✅-زن-زندگی-آزادی
-vless://837e8299-4b55-411a-8d91-ca4af0a9c5e7@free.lithub.ir:250?type=tcp&encryption=none&fp=chrome&allowInsecure=1#1 ✂️-🇹🇷TR-last 14(@GheychiAmoozesh)
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEFaIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEtXIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-Error 1102 Ray ID: 97d2bf833cd23b5c • 2025-09-10 23:36:32 UTC
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEVFIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+Error 1102 Ray ID: 97daf6a79acd2f74 • 2025-09-11 23:32:18 UTC
 Worker exceeded resource limits
 What happened?
 You've requested a page on a website (v2.alicivil.workers.dev) that is on the Cloudflare network. An unknown error occurred while rendering the page.
 What can I do?
 If you are the owner of this website:
 refer to Workers - Errors and Exceptions and check Workers Logs for v2.alicivil.workers.dev.
-Cloudflare Ray ID: 97d2bf833cd23b5c • Your IP: Click to reveal • Performance & security by Cloudflare
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IE9NIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+Cloudflare Ray ID: 97daf6a79acd2f74 • Your IP: Click to reveal • Performance & security by Cloudflare
+Error 1102 Ray ID: 97daf6f0aa852df4 • 2025-09-11 23:32:29 UTC
+Cloudflare Ray ID: 97daf6f0aa852df4 • Your IP: Click to reveal • Performance & security by Cloudflare
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IENSIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IE5MIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IFRXIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+Error 1102 Ray ID: 97daf8041b5eccc8 • 2025-09-11 23:33:13 UTC
+Cloudflare Ray ID: 97daf8041b5eccc8 • Your IP: Click to reveal • Performance & security by Cloudflare
+Error 1102 Ray ID: 97daf8489b2f262b • 2025-09-11 23:33:24 UTC
+Cloudflare Ray ID: 97daf8489b2f262b • Your IP: Click to reveal • Performance & security by Cloudflare
+Error 1102 Ray ID: 97daf88dce0a50af • 2025-09-11 23:33:35 UTC
+Cloudflare Ray ID: 97daf88dce0a50af • Your IP: Click to reveal • Performance & security by Cloudflare
+trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@mel12.yukiss.eu.org:18818?security=tls&fp=chrome&allowInsecure=1#0✅-تلگرام ما را دنبال کنید
+trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@mel12.yukiss.eu.org:18818?security=tls&fp=chrome&allowInsecure=1#0✅-@GheychiAmoozesh
+trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@mel12.yukiss.eu.org:18818?security=tls&fp=chrome&allowInsecure=1#0✅-زن-زندگی-آزادی
+trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@mel12.yukiss.eu.org:18818?security=tls&fp=chrome&allowInsecure=1#1 ✂️-🇦🇺AU-last 14(@GheychiAmoozesh)
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEZSIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IFVTIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IElUIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+Error 1102 Ray ID: 97daf9e549dbc3a8 • 2025-09-11 23:34:30 UTC
+Cloudflare Ray ID: 97daf9e549dbc3a8 • Your IP: Click to reveal • Performance & security by Cloudflare
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEdFIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEQiLCJzY3kiOiJhdXRvIiwic25pIjoiZXJyb3IuZXJyb3IiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEFSIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+Error 1102 Ray ID: 97dafaf858962ad3 • 2025-09-11 23:35:14 UTC
+Cloudflare Ray ID: 97dafaf858962ad3 • Your IP: Click to reveal • Performance & security by Cloudflare
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEFFIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEAiLCJzY3kiOiJhdXRvIiwic25pIjoiZXJyb3IuZXJyb3IiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IFRSIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEFaIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+Error 1102 Ray ID: 97dafc554d116d35 • 2025-09-11 23:36:11 UTC
+Cloudflare Ray ID: 97dafc554d116d35 • Your IP: Click to reveal • Performance & security by Cloudflare
+Error 1102 Ray ID: 97dafca38d950fe0 • 2025-09-11 23:36:22 UTC
+Cloudflare Ray ID: 97dafca38d950fe0 • Your IP: Click to reveal • Performance & security by Cloudflare
+Error 1102 Ray ID: 97dafce7eea32eaf • 2025-09-11 23:36:33 UTC
+Cloudflare Ray ID: 97dafce7eea32eaf • Your IP: Click to reveal • Performance & security by Cloudflare
 vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IFBLIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEgiLCJzY3kiOiJhdXRvIiwic25pIjoiZXJyb3IuZXJyb3IiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEJIIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
@@ -79,115 +53,11 @@ vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVy
 vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IFVaIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IElSIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IElMIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IENZIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEdSIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4p2MIEVycm9yOiBsaXN0IGVtcHR5Iiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+Error 1102 Ray ID: 97daff4eebd12110 • 2025-09-11 23:38:11 UTC
+Cloudflare Ray ID: 97daff4eebd12110 • Your IP: Click to reveal • Performance & security by Cloudflare
 vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEJHIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IFAiLCJzY3kiOiJhdXRvIiwic25pIjoiZXJyb3IuZXJyb3IiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
+Error 1102 Ray ID: 97db001d892de57c • 2025-09-11 23:38:44 UTC
+Cloudflare Ray ID: 97db001d892de57c • Your IP: Click to reveal • Performance & security by Cloudflare
 vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IFJPIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.91.102.30:7002#000✅-تلگرام ما را دنبال کنید
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.91.102.30:7002#000✅-@GheychiAmoozesh
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.91.102.30:7002#000✅-زن-زندگی-آزادی
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.91.102.30:7002#001 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@pr3.jymzffbquawl.com:6601#002 ✂️-🇨🇳CN-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@213.183.59.214:9060#003 ✂️-🇳🇱NL-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@167.88.61.60:9101#004 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.142:7306#005 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.166:806#006 ✂️-🇸🇬SG-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.213.2.160:443#007 ✂️-🇸🇬SG-last 14(@GheychiAmoozesh)
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25287#008 ✂️-🇨🇳CN-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.117:33992#009 ✂️-🇮🇹IT-last 14(@GheychiAmoozesh)
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#010 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:810#011 ✂️-🇸🇬SG-last 14(@GheychiAmoozesh)
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@23.251.121.242:8080#012 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:801#013 ✂️-🇨🇦CA-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.91.100.207:5004#014 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@85.208.108.21:9102#015 ✂️-🇨🇦CA-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@217.30.10.63:9031#016 ✂️-🇵🇱PL-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.30:38388#017 ✂️-🇻🇳VN-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5001#018 ✂️-🇫🇷FR-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.91.100.27:443#019 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@85.208.108.59:6697#020 ✂️-🇨🇦CA-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.143.66.55:8090#021 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@45.89.52.66:9042#022 ✂️-🇹🇷TR-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:807#023 ✂️-🇸🇬SG-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@38.91.107.225:802#024 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@213.183.59.211:9059#025 ✂️-🇳🇱NL-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206YW1hem9uZ3JlYXR2cG4=@18.163.165.61:16888#026 ✂️-🇭🇰HK-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.49:2376#027 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.38.163.53:989#028 ✂️-🇱🇺LU-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.7:2375#029 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@172.99.188.71:5003#030 ✂️-🇳🇱NL-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@217.30.10.63:9040#031 ✂️-🇵🇱PL-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.135:8881#032 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.59.165:443#033 ✂️-🇫🇷FR-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:808#034 ✂️-🇸🇬SG-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.152:809#035 ✂️-🇸🇬SG-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.64.138.145:8009#036 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.64.138.145:7307#037 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.143.66.20:6679#038 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1190#039 ✂️-🇨🇳CN-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.190.39:5600#040 ✂️-🇬🇧GB-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxNw==@51.38.118.42:811#041 ✂️-🇫🇷FR-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.69:8091#042 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM=@144.168.60.70:252#043 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.134.85:5500#044 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@passconf.xyz:8080#045 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.190.39:5601#046 ✂️-🇬🇧GB-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@85.208.108.60:8008#047 ✂️-🇨🇦CA-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:803#048 ✂️-🇸🇬SG-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@213.183.59.206:9037#049 ✂️-🇳🇱NL-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU=@97.64.122.63:253#050 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@213.183.51.171:9041#051 ✂️-🇳🇱NL-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@43.204.29.0:805#052 ✂️-🇮🇳IN-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.85:3306#053 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@213.183.59.206:9043#054 ✂️-🇳🇱NL-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@85.208.108.20:7001#055 ✂️-🇨🇦CA-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#056 ✂️-🇪🇨EC-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@103.172.116.6:9011#057 ✂️-🇸🇬SG-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#058 ✂️-🇱🇹LT-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw==@217.30.10.68:9018#059 ✂️-🇵🇱PL-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.188.99:6379#060 ✂️-🇳🇱NL-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.91.107.16:8119#061 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@162.251.61.221:800#062 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.169:8080#063 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25252#064 ✂️-🇨🇳CN-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1jZmI6VVdaUWVMUldua3Fna3NlcQ==@103.172.116.6:9032#065 ✂️-🇸🇬SG-last 14(@GheychiAmoozesh)
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:24002#066 ✂️-🇨🇳CN-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206NUFzSnBUMzZXcGRXYnY1cg==@45.78.5.173:57998#067 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@167.88.63.59:8000#068 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.86.135.27:8882#069 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.134.85:8118#070 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11049#071 ✂️-🇨🇳CN-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.63.99:4444#072 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.107.226.146:3389#073 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#074 ✂️-🇦🇹AT-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg==@217.30.10.63:9079#075 ✂️-🇵🇱PL-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#076 ✂️-🇱🇹LT-last 14(@GheychiAmoozesh)
-ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.82:5985#077 ✂️-🇨🇳CN-last 14(@GheychiAmoozesh)
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11010#078 ✂️-🇨🇳CN-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206RjViS2tiOWdna0x4NEpiUXJiTG43TGpa@198.8.92.84:44945#079 ✂️-🇨🇦CA-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhU@81.19.208.107:50168#080 ✂️-🇳🇱NL-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ==@185.167.116.253:9050#081 ✂️-🇦🇺AU-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#082 ✂️-🇳🇱NL-last 14(@GheychiAmoozesh)
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25254#083 ✂️-🇨🇳CN-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMlk1WQ==@fr01.proxysocks.xyz:8388#084 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@213.183.59.214:9064#085 ✂️-🇳🇱NL-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@213.183.59.185:9025#086 ✂️-🇳🇱NL-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.166:804#087 ✂️-🇸🇬SG-last 14(@GheychiAmoozesh)
-ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.80:1157#088 ✂️-🇨🇳CN-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNjE4N2NmOC03MDAzLTQ3ZTItOTY3Yi03YjkwMGIxMzJkZGI=@114.35.114.182:10129#089 ✂️-🇹🇼TW-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIR0JkT0tkY0llcjU=@167.99.192.30:3567#090 ✂️-🇬🇧GB-last 14(@GheychiAmoozesh)
-ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@bs3.jymzffbquawl.com:3046#091 ✂️-🇨🇳CN-last 14(@GheychiAmoozesh)
-ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1150#092 ✂️-🇨🇳CN-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:812#093 ✂️-🇸🇬SG-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY213dFFSeklDWEdRTGlvU29semk3@106.15.224.42:2055#094 ✂️-🇨🇳CN-last 14(@GheychiAmoozesh)
-ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1192#095 ✂️-🇨🇳CN-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@142.202.48.34:445#096 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.160.24.217:811#097 ✂️-🇯🇵JP-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#098 ✂️-🇺🇦UA-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206SjlZMm5jcmRQRUMzOGd3eWRORkZHQm5h@198.8.92.84:35294#099 ✂️-🇨🇦CA-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzemR6THdVbjZaQ3M5V2d4NlhVaXdF@143.198.221.178:45135#100 ✂️-🇸🇬SG-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaM1lTMEt4Qjh1NWpncDczNmU4MzR5M0RhWHdTT1l6eGxGREZxcE5DYWFsREE5Q0VJUmNlWk9DQW5SMnlUUw==@154.17.5.184:18331#101 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.4.162.18:30696#102 ✂️-🇩🇪DE-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.166:8080#103 ✂️-🇱🇹LT-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206dWd5QmtTRUZ4VkVtVVlTSHl2eG1XTmo5@198.8.92.84:40220#104 ✂️-🇨🇦CA-last 14(@GheychiAmoozesh)
