@@ -1,8 +1,8 @@
-Error 1101 Ray ID: 98a8f00dae053b1a • 2025-10-06 23:28:53 UTC
+Error 1101 Ray ID: 98b96ca6dbb75f12 • 2025-10-08 23:30:09 UTC
 Worker threw exception
 What happened?
 You've requested a page on a website (sub.bitplatform.workers.dev) that is on the Cloudflare network. An unknown error occurred while rendering the page.
 What can I do?
 If you are the owner of this website:
 refer to Workers - Errors and Exceptions and check Workers Logs for sub.bitplatform.workers.dev.
-Cloudflare Ray ID: 98a8f00dae053b1a • Your IP: Click to reveal • Performance & security by Cloudflare
+Cloudflare Ray ID: 98b96ca6dbb75f12 • Your IP: Click to reveal • Performance & security by Cloudflare
