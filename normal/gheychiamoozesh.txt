@@ -1,684 +1,101 @@
-{
-    "outbounds": [
-        {
-            "type": "wireguard",
-            "server": "2606:4700:d0::2fc9:2c3d:eff7",
-            "server_port": 7156,
-            "local_address": [
-                "172.16.0.2/32",
-                "2606:4700:110:8f59:6a69:73d4:107c:fb90/128"
-            ],
-            "private_key": "6C2q6wufwbeOrjnHtF4V83DnKWDRfag4W3a4EMNp02w=",
-            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-            "reserved": [
-                190,
-                132,
-                81
-            "mtu": 1330,
-            "tag": "@GheychiAmoozesh § 0"
-        },
-            "server": "188.114.99.0",
-            "server_port": 945,
-            "tag": "@GheychiAmoozesh § 1"
-            "server": "188.114.99.1",
-            "server_port": 2082,
-            "tag": "@GheychiAmoozesh § 2"
-            "server": "188.114.99.2",
-            "server_port": 1014,
-            "tag": "@GheychiAmoozesh § 3"
-            "server": "188.114.99.3",
-            "server_port": 1018,
-            "tag": "@GheychiAmoozesh § 4"
-            "server": "188.114.99.4",
-            "server_port": 2053,
-            "tag": "@GheychiAmoozesh § 5"
-            "server": "188.114.99.5",
-            "server_port": 2408,
-            "tag": "@GheychiAmoozesh § 6"
-            "server": "188.114.99.6",
-            "server_port": 878,
-            "tag": "@GheychiAmoozesh § 7"
-            "server": "188.114.99.7",
-            "server_port": 940,
-            "tag": "@GheychiAmoozesh § 8"
-            "server": "188.114.99.8",
-            "server_port": 891,
-            "tag": "@GheychiAmoozesh § 9"
-            "server": "188.114.99.9",
-            "server_port": 989,
-            "tag": "@GheychiAmoozesh § 10"
-            "server": "188.114.99.10",
-            "server_port": 1701,
-            "tag": "@GheychiAmoozesh § 11"
-            "server": "188.114.99.11",
-            "server_port": 1194,
-            "tag": "@GheychiAmoozesh § 12"
-            "server": "188.114.99.12",
-            "server_port": 969,
-            "tag": "@GheychiAmoozesh § 13"
-            "server": "188.114.99.13",
-            "tag": "@GheychiAmoozesh § 14"
-            "server": "188.114.99.14",
-            "tag": "@GheychiAmoozesh § 15"
-            "server": "188.114.99.15",
-            "server_port": 988,
-            "tag": "@GheychiAmoozesh § 16"
-            "server": "188.114.99.16",
-            "server_port": 928,
-            "tag": "@GheychiAmoozesh § 17"
-            "server": "188.114.99.17",
-            "server_port": 8080,
-            "tag": "@GheychiAmoozesh § 18"
-            "server": "188.114.99.18",
-            "tag": "@GheychiAmoozesh § 19"
-            "server": "188.114.99.19",
-            "tag": "@GheychiAmoozesh § 20"
-            "server": "188.114.99.20",
-            "server_port": 968,
-            "tag": "@GheychiAmoozesh § 21"
-            "server": "188.114.99.21",
-            "tag": "@GheychiAmoozesh § 22"
-            "server": "188.114.99.22",
-            "tag": "@GheychiAmoozesh § 23"
-            "server": "188.114.99.23",
-            "tag": "@GheychiAmoozesh § 24"
-            "server": "188.114.99.24",
-            "tag": "@GheychiAmoozesh § 25"
-            "server": "188.114.99.25",
-            "server_port": 946,
-            "tag": "@GheychiAmoozesh § 26"
-            "server": "188.114.99.26",
-            "tag": "@GheychiAmoozesh § 27"
-            "server": "188.114.99.27",
-            "tag": "@GheychiAmoozesh § 28"
-            "server": "188.114.99.28",
-            "server_port": 8443,
-            "tag": "@GheychiAmoozesh § 29"
-            "server": "188.114.99.29",
-            "tag": "@GheychiAmoozesh § 30"
-            "server": "188.114.99.30",
-            "server_port": 3138,
-            "tag": "@GheychiAmoozesh § 31"
-            "server": "188.114.99.31",
-            "tag": "@GheychiAmoozesh § 32"
-            "server": "188.114.99.32",
-            "server_port": 2096,
-            "tag": "@GheychiAmoozesh § 33"
-            "server": "188.114.99.33",
-            "server_port": 890,
-            "tag": "@GheychiAmoozesh § 34"
-            "server": "188.114.99.34",
-            "tag": "@GheychiAmoozesh § 35"
-            "server": "188.114.99.35",
-            "tag": "@GheychiAmoozesh § 36"
-            "server": "188.114.99.36",
-            "tag": "@GheychiAmoozesh § 37"
-            "server": "188.114.99.37",
-            "tag": "@GheychiAmoozesh § 38"
-            "server": "188.114.99.38",
-            "server_port": 929,
-            "tag": "@GheychiAmoozesh § 39"
-            "server": "188.114.99.39",
-            "tag": "@GheychiAmoozesh § 40"
-            "server": "188.114.99.40",
-            "tag": "@GheychiAmoozesh § 41"
-            "server": "188.114.99.41",
-            "tag": "@GheychiAmoozesh § 42"
-            "server": "188.114.99.42",
-            "tag": "@GheychiAmoozesh § 43"
-            "server": "188.114.99.43",
-            "server_port": 939,
-            "tag": "@GheychiAmoozesh § 44"
-            "server": "188.114.99.44",
-            "tag": "@GheychiAmoozesh § 45"
-            "server": "188.114.99.45",
-            "tag": "@GheychiAmoozesh § 46"
-            "server": "188.114.99.46",
-            "tag": "@GheychiAmoozesh § 47"
-            "server": "188.114.99.47",
-            "tag": "@GheychiAmoozesh § 48"
-            "server": "188.114.99.48",
-            "tag": "@GheychiAmoozesh § 49"
-            "server": "188.114.99.49",
-            "tag": "@GheychiAmoozesh § 50"
-            "server": "188.114.99.50",
-            "server_port": 4500,
-            "tag": "@GheychiAmoozesh § 51"
-            "server": "188.114.99.51",
-            "server_port": 500,
-            "tag": "@GheychiAmoozesh § 52"
-            "server": "188.114.99.52",
-            "tag": "@GheychiAmoozesh § 53"
-            "server": "188.114.99.53",
-            "tag": "@GheychiAmoozesh § 54"
-            "server": "188.114.99.54",
-            "tag": "@GheychiAmoozesh § 55"
-            "server": "188.114.99.55",
-            "tag": "@GheychiAmoozesh § 56"
-            "server": "188.114.99.56",
-            "server_port": 2086,
-            "tag": "@GheychiAmoozesh § 57"
-            "server": "188.114.99.57",
-            "server_port": 1015,
-            "tag": "@GheychiAmoozesh § 58"
-            "server": "188.114.99.58",
-            "tag": "@GheychiAmoozesh § 59"
-            "server": "188.114.99.59",
-            "tag": "@GheychiAmoozesh § 60"
-            "server": "188.114.99.60",
-            "tag": "@GheychiAmoozesh § 61"
-            "server": "188.114.99.61",
-            "tag": "@GheychiAmoozesh § 62"
-            "server": "188.114.99.62",
-            "tag": "@GheychiAmoozesh § 63"
-            "server": "188.114.99.63",
-            "tag": "@GheychiAmoozesh § 64"
-            "server": "188.114.99.64",
-            "tag": "@GheychiAmoozesh § 65"
-            "server": "188.114.99.65",
-            "tag": "@GheychiAmoozesh § 66"
-            "server": "188.114.99.66",
-            "tag": "@GheychiAmoozesh § 67"
-            "server": "188.114.99.67",
-            "tag": "@GheychiAmoozesh § 68"
-            "server": "188.114.99.68",
-            "server_port": 3139,
-            "tag": "@GheychiAmoozesh § 69"
-            "server": "188.114.99.69",
-            "tag": "@GheychiAmoozesh § 70"
-            "server": "188.114.99.70",
-            "server_port": 2095,
-            "tag": "@GheychiAmoozesh § 71"
-            "server": "188.114.99.71",
-            "tag": "@GheychiAmoozesh § 72"
-            "server": "188.114.99.72",
-            "tag": "@GheychiAmoozesh § 73"
-            "server": "188.114.99.73",
-            "tag": "@GheychiAmoozesh § 74"
-            "server": "188.114.99.74",
-            "tag": "@GheychiAmoozesh § 75"
-            "server": "188.114.99.75",
-            "tag": "@GheychiAmoozesh § 76"
-            "server": "188.114.99.76",
-            "server_port": 2083,
-            "tag": "@GheychiAmoozesh § 77"
-            "server": "188.114.99.77",
-            "tag": "@GheychiAmoozesh § 78"
-            "server": "188.114.99.78",
-            "tag": "@GheychiAmoozesh § 79"
-            "server": "188.114.99.79",
-            "tag": "@GheychiAmoozesh § 80"
-            "server": "188.114.99.80",
-            "tag": "@GheychiAmoozesh § 81"
-            "server": "188.114.99.81",
-            "tag": "@GheychiAmoozesh § 82"
-            "server": "188.114.99.82",
-            "tag": "@GheychiAmoozesh § 83"
-            "server": "188.114.99.83",
-            "tag": "@GheychiAmoozesh § 84"
-            "server": "188.114.99.84",
-            "tag": "@GheychiAmoozesh § 85"
-            "server": "188.114.99.85",
-            "tag": "@GheychiAmoozesh § 86"
-            "server": "188.114.99.86",
-            "server_port": 1195,
-            "tag": "@GheychiAmoozesh § 87"
-            "server": "188.114.99.87",
-            "tag": "@GheychiAmoozesh § 88"
-            "server": "188.114.99.88",
-            "server_port": 443,
-            "tag": "@GheychiAmoozesh § 89"
-            "server": "188.114.99.89",
-            "tag": "@GheychiAmoozesh § 90"
-            "server": "188.114.99.90",
-            "server_port": 7559,
-            "tag": "@GheychiAmoozesh § 91"
-            "server": "188.114.99.91",
-            "tag": "@GheychiAmoozesh § 92"
-            "server": "188.114.99.92",
-            "server_port": 2087,
-            "tag": "@GheychiAmoozesh § 93"
-            "server": "188.114.99.93",
-            "tag": "@GheychiAmoozesh § 94"
-            "server": "188.114.99.94",
-            "tag": "@GheychiAmoozesh § 95"
-            "server": "188.114.99.95",
-            "tag": "@GheychiAmoozesh § 96"
-            "server": "188.114.99.96",
-            "tag": "@GheychiAmoozesh § 97"
-            "server": "188.114.99.97",
-            "tag": "@GheychiAmoozesh § 98"
-            "server": "188.114.99.98",
-            "tag": "@GheychiAmoozesh § 99"
-            "server": "188.114.99.99",
-            "tag": "@GheychiAmoozesh § 100"
-            "server": "188.114.99.100",
-            "tag": "@GheychiAmoozesh § 101"
-            "server": "188.114.99.101",
-            "tag": "@GheychiAmoozesh § 102"
-            "server": "188.114.99.102",
-            "tag": "@GheychiAmoozesh § 103"
-            "server": "188.114.99.103",
-            "tag": "@GheychiAmoozesh § 104"
-            "server": "188.114.99.104",
-            "tag": "@GheychiAmoozesh § 105"
-            "server": "188.114.99.105",
-            "tag": "@GheychiAmoozesh § 106"
-            "server": "188.114.99.106",
-            "tag": "@GheychiAmoozesh § 107"
-            "server": "188.114.99.107",
-            "tag": "@GheychiAmoozesh § 108"
-            "server": "188.114.99.108",
-            "tag": "@GheychiAmoozesh § 109"
-            "server": "188.114.99.109",
-            "tag": "@GheychiAmoozesh § 110"
-            "server": "188.114.99.110",
-            "tag": "@GheychiAmoozesh § 111"
-            "server": "188.114.99.111",
-            "tag": "@GheychiAmoozesh § 112"
-            "server": "188.114.99.112",
-            "tag": "@GheychiAmoozesh § 113"
-            "server": "188.114.99.113",
-            "tag": "@GheychiAmoozesh § 114"
-            "server": "188.114.99.114",
-            "tag": "@GheychiAmoozesh § 115"
-            "server": "188.114.99.115",
-            "tag": "@GheychiAmoozesh § 116"
-            "server": "188.114.99.116",
-            "tag": "@GheychiAmoozesh § 117"
-            "server": "188.114.99.117",
-            "tag": "@GheychiAmoozesh § 118"
-            "server": "188.114.99.118",
-            "tag": "@GheychiAmoozesh § 119"
-            "server": "188.114.99.119",
-            "tag": "@GheychiAmoozesh § 120"
-            "server": "188.114.99.120",
-            "tag": "@GheychiAmoozesh § 121"
-            "server": "188.114.99.121",
-            "tag": "@GheychiAmoozesh § 122"
-            "server": "188.114.99.122",
-            "tag": "@GheychiAmoozesh § 123"
-            "server": "188.114.99.123",
-            "tag": "@GheychiAmoozesh § 124"
-            "server": "188.114.99.124",
-            "tag": "@GheychiAmoozesh § 125"
-            "server": "188.114.99.125",
-            "tag": "@GheychiAmoozesh § 126"
-            "server": "188.114.99.126",
-            "tag": "@GheychiAmoozesh § 127"
-            "server": "188.114.99.127",
-            "tag": "@GheychiAmoozesh § 128"
-            "server": "188.114.99.128",
-            "tag": "@GheychiAmoozesh § 129"
-            "server": "188.114.99.129",
-            "tag": "@GheychiAmoozesh § 130"
-            "server": "188.114.99.130",
-            "tag": "@GheychiAmoozesh § 131"
-            "server": "188.114.99.131",
-            "tag": "@GheychiAmoozesh § 132"
-            "server": "188.114.99.132",
-            "tag": "@GheychiAmoozesh § 133"
-            "server": "188.114.99.133",
-            "tag": "@GheychiAmoozesh § 134"
-            "server": "188.114.99.134",
-            "tag": "@GheychiAmoozesh § 135"
-            "server": "188.114.99.135",
-            "tag": "@GheychiAmoozesh § 136"
-            "server": "188.114.99.136",
-            "tag": "@GheychiAmoozesh § 137"
-            "server": "188.114.99.137",
-            "tag": "@GheychiAmoozesh § 138"
-            "server": "188.114.99.138",
-            "tag": "@GheychiAmoozesh § 139"
-            "server": "188.114.99.139",
-            "tag": "@GheychiAmoozesh § 140"
-            "server": "188.114.99.140",
-            "tag": "@GheychiAmoozesh § 141"
-            "server": "188.114.99.141",
-            "tag": "@GheychiAmoozesh § 142"
-            "server": "188.114.99.142",
-            "tag": "@GheychiAmoozesh § 143"
-            "server": "188.114.99.143",
-            "tag": "@GheychiAmoozesh § 144"
-            "server": "188.114.99.144",
-            "tag": "@GheychiAmoozesh § 145"
-            "server": "188.114.99.145",
-            "tag": "@GheychiAmoozesh § 146"
-            "server": "188.114.99.146",
-            "tag": "@GheychiAmoozesh § 147"
-            "server": "188.114.99.147",
-            "tag": "@GheychiAmoozesh § 148"
-            "server": "188.114.99.148",
-            "tag": "@GheychiAmoozesh § 149"
-            "server": "188.114.99.149",
-            "tag": "@GheychiAmoozesh § 150"
-            "server": "188.114.99.150",
-            "tag": "@GheychiAmoozesh § 151"
-            "server": "188.114.99.151",
-            "tag": "@GheychiAmoozesh § 152"
-            "server": "188.114.99.152",
-            "tag": "@GheychiAmoozesh § 153"
-            "server": "188.114.99.153",
-            "tag": "@GheychiAmoozesh § 154"
-            "server": "188.114.99.154",
-            "tag": "@GheychiAmoozesh § 155"
-            "server": "188.114.99.155",
-            "tag": "@GheychiAmoozesh § 156"
-            "server": "188.114.99.156",
-            "tag": "@GheychiAmoozesh § 157"
-            "server": "188.114.99.157",
-            "tag": "@GheychiAmoozesh § 158"
-            "server": "188.114.99.158",
-            "tag": "@GheychiAmoozesh § 159"
-            "server": "188.114.99.159",
-            "tag": "@GheychiAmoozesh § 160"
-            "server": "188.114.99.160",
-            "tag": "@GheychiAmoozesh § 161"
-            "server": "188.114.99.161",
-            "tag": "@GheychiAmoozesh § 162"
-            "server": "188.114.99.162",
-            "tag": "@GheychiAmoozesh § 163"
-            "server": "188.114.99.163",
-            "tag": "@GheychiAmoozesh § 164"
-            "server": "188.114.99.164",
-            "tag": "@GheychiAmoozesh § 165"
-            "server": "188.114.99.165",
-            "tag": "@GheychiAmoozesh § 166"
-            "server": "188.114.99.166",
-            "tag": "@GheychiAmoozesh § 167"
-            "server": "188.114.99.167",
-            "tag": "@GheychiAmoozesh § 168"
-            "server": "188.114.99.168",
-            "tag": "@GheychiAmoozesh § 169"
-            "server": "188.114.99.169",
-            "tag": "@GheychiAmoozesh § 170"
-            "server": "188.114.99.170",
-            "server_port": 2084,
-            "tag": "@GheychiAmoozesh § 171"
-            "server": "188.114.99.171",
-            "tag": "@GheychiAmoozesh § 172"
-            "server": "188.114.99.172",
-            "tag": "@GheychiAmoozesh § 173"
-            "server": "188.114.99.173",
-            "tag": "@GheychiAmoozesh § 174"
-            "server": "188.114.99.174",
-            "tag": "@GheychiAmoozesh § 175"
-            "server": "188.114.99.175",
-            "tag": "@GheychiAmoozesh § 176"
-            "server": "188.114.99.176",
-            "tag": "@GheychiAmoozesh § 177"
-            "server": "188.114.99.177",
-            "tag": "@GheychiAmoozesh § 178"
-            "server": "188.114.99.178",
-            "tag": "@GheychiAmoozesh § 179"
-            "server": "188.114.99.179",
-            "tag": "@GheychiAmoozesh § 180"
-            "server": "188.114.99.180",
-            "tag": "@GheychiAmoozesh § 181"
-            "server": "188.114.99.181",
-            "tag": "@GheychiAmoozesh § 182"
-            "server": "188.114.99.182",
-            "tag": "@GheychiAmoozesh § 183"
-            "server": "188.114.99.183",
-            "tag": "@GheychiAmoozesh § 184"
-            "server": "188.114.99.184",
-            "tag": "@GheychiAmoozesh § 185"
-            "server": "188.114.99.185",
-            "tag": "@GheychiAmoozesh § 186"
-            "server": "188.114.99.186",
-            "tag": "@GheychiAmoozesh § 187"
-            "server": "188.114.99.187",
-            "tag": "@GheychiAmoozesh § 188"
-            "server": "188.114.99.188",
-            "tag": "@GheychiAmoozesh § 189"
-            "server": "188.114.99.189",
-            "tag": "@GheychiAmoozesh § 190"
-            "server": "188.114.99.190",
-            "tag": "@GheychiAmoozesh § 191"
-            "server": "188.114.99.191",
-            "tag": "@GheychiAmoozesh § 192"
-            "server": "188.114.99.192",
-            "tag": "@GheychiAmoozesh § 193"
-            "server": "188.114.99.193",
-            "tag": "@GheychiAmoozesh § 194"
-            "server": "188.114.99.194",
-            "tag": "@GheychiAmoozesh § 195"
-            "server": "188.114.99.195",
-            "tag": "@GheychiAmoozesh § 196"
-            "server": "188.114.99.196",
-            "tag": "@GheychiAmoozesh § 197"
-            "server": "188.114.99.197",
-            "tag": "@GheychiAmoozesh § 198"
-            "server": "188.114.99.198",
-            "tag": "@GheychiAmoozesh § 199"
-            "server": "188.114.99.199",
-            "tag": "@GheychiAmoozesh § 200"
-            "server": "188.114.99.200",
-            "tag": "@GheychiAmoozesh § 201"
-            "server": "188.114.99.201",
-            "tag": "@GheychiAmoozesh § 202"
-            "server": "188.114.99.202",
-            "tag": "@GheychiAmoozesh § 203"
-            "server": "188.114.99.203",
-            "tag": "@GheychiAmoozesh § 204"
-            "server": "188.114.99.204",
-            "tag": "@GheychiAmoozesh § 205"
-            "server": "188.114.99.205",
-            "tag": "@GheychiAmoozesh § 206"
-            "server": "188.114.99.206",
-            "tag": "@GheychiAmoozesh § 207"
-            "server": "188.114.99.207",
-            "tag": "@GheychiAmoozesh § 208"
-            "server": "188.114.99.208",
-            "tag": "@GheychiAmoozesh § 209"
-            "server": "188.114.99.209",
-            "tag": "@GheychiAmoozesh § 210"
-            "server": "188.114.99.210",
-            "tag": "@GheychiAmoozesh § 211"
-            "server": "188.114.99.211",
-            "tag": "@GheychiAmoozesh § 212"
-            "server": "188.114.99.212",
-            "tag": "@GheychiAmoozesh § 213"
-            "server": "188.114.99.213",
-            "tag": "@GheychiAmoozesh § 214"
-            "server": "188.114.99.214",
-            "tag": "@GheychiAmoozesh § 215"
-            "server": "188.114.99.215",
-            "tag": "@GheychiAmoozesh § 216"
-            "server": "188.114.99.216",
-            "tag": "@GheychiAmoozesh § 217"
-            "server": "188.114.99.217",
-            "tag": "@GheychiAmoozesh § 218"
-            "server": "188.114.99.218",
-            "tag": "@GheychiAmoozesh § 219"
-            "server": "188.114.99.219",
-            "tag": "@GheychiAmoozesh § 220"
-            "server": "188.114.99.220",
-            "tag": "@GheychiAmoozesh § 221"
-            "server": "188.114.99.221",
-            "tag": "@GheychiAmoozesh § 222"
-            "server": "188.114.99.222",
-            "tag": "@GheychiAmoozesh § 223"
-            "server": "188.114.99.223",
-            "tag": "@GheychiAmoozesh § 224"
-            "server": "188.114.99.224",
-            "tag": "@GheychiAmoozesh § 225"
-            "server": "188.114.99.225",
-            "tag": "@GheychiAmoozesh § 226"
-            "server": "188.114.99.226",
-            "tag": "@GheychiAmoozesh § 227"
-            "server": "188.114.99.227",
-            "tag": "@GheychiAmoozesh § 228"
-            "server": "188.114.99.228",
-            "tag": "@GheychiAmoozesh § 229"
-            "server": "188.114.99.229",
-            "tag": "@GheychiAmoozesh § 230"
-            "server": "188.114.99.230",
-            "tag": "@GheychiAmoozesh § 231"
-            "server": "188.114.99.231",
-            "tag": "@GheychiAmoozesh § 232"
-            "server": "188.114.99.232",
-            "tag": "@GheychiAmoozesh § 233"
-            "server": "188.114.99.233",
-            "tag": "@GheychiAmoozesh § 234"
-            "server": "188.114.99.234",
-            "tag": "@GheychiAmoozesh § 235"
-            "server": "188.114.99.235",
-            "tag": "@GheychiAmoozesh § 236"
-            "server": "188.114.99.236",
-            "tag": "@GheychiAmoozesh § 237"
-            "server": "188.114.99.237",
-            "tag": "@GheychiAmoozesh § 238"
-            "server": "188.114.99.238",
-            "tag": "@GheychiAmoozesh § 239"
-            "server": "188.114.99.239",
-            "tag": "@GheychiAmoozesh § 240"
-            "server": "188.114.99.240",
-            "tag": "@GheychiAmoozesh § 241"
-            "server": "188.114.99.241",
-            "tag": "@GheychiAmoozesh § 242"
-            "server": "188.114.99.242",
-            "tag": "@GheychiAmoozesh § 243"
-            "server": "188.114.99.243",
-            "tag": "@GheychiAmoozesh § 244"
-            "server": "188.114.99.244",
-            "tag": "@GheychiAmoozesh § 245"
-            "server": "188.114.99.245",
-            "tag": "@GheychiAmoozesh § 246"
-            "server": "188.114.99.246",
-            "tag": "@GheychiAmoozesh § 247"
-            "server": "188.114.99.247",
-            "tag": "@GheychiAmoozesh § 248"
-            "server": "188.114.99.248",
-            "tag": "@GheychiAmoozesh § 249"
-            "server": "188.114.99.249",
-            "tag": "@GheychiAmoozesh § 250"
-            "server": "188.114.99.250",
-            "tag": "@GheychiAmoozesh § 251"
-            "server": "188.114.99.251",
-            "tag": "@GheychiAmoozesh § 252"
-            "server": "188.114.99.252",
-            "tag": "@GheychiAmoozesh § 253"
-            "server": "188.114.99.253",
-            "tag": "@GheychiAmoozesh § 254"
-            "server": "188.114.99.254",
-            "tag": "@GheychiAmoozesh § 255"
-            "server": "188.114.99.255",
-            "tag": "@GheychiAmoozesh § 256"
-        }
-    ]
-}
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4p2MIEVycm9yOiDYqNinINin2LnZhdin2YQg2YHbjNmE2KrYsdmH2KfbjCDYstuM2LEg2qnYp9mG2YHbjNqv2YfYpyDYrdiw2YEg2LTYr9mG2K8iLCJzY3kiOiJhdXRvIiwic25pIjoiZXJyb3IuZXJyb3IiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IHRydWUiLCJzY3kiOiJhdXRvIiwic25pIjoiZXJyb3IuZXJyb3IiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEVFIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pyFIC06IEBHaGV5Y2hpQW1vb3plc2gg2qnYp9mG2KfZhCDYqtmE2q/YsdmFIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IFxiIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-                "2606:4700:110:8715:c895:cb58:c7e8:cf98/128"
-            "private_key": "kEu4ouCXs4VDAJ8MGe2dYaVFY3/oB9aGToh+auW+ZVQ=",
-                97,
-                70,
-                183
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IENSIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-                "2606:4700:110:841a:3478:cc59:7c:d7f3/128"
-            "private_key": "IAWIYcU/xdyUbk+mFYzmCEE7wLDedsb/W9GfNla2UG8=",
-                143,
-                82,
-                9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IFRXIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEpQIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-                "2606:4700:110:84e1:c785:26c2:3789:30e3/128"
-            "private_key": "ME4tFy6M0oE8cnB85Bkd+m0Wtcs4u6rHiGHeFGT4V1o=",
-                250,
-                241,
-                96
-                "2606:4700:110:8b4f:e28b:b88:6767:ba2c/128"
-            "private_key": "ICiL8gUKXiVMIk2maRuCZlF2Y2E+WA+6ZloOdaXqj2Y=",
-                219,
-                147,
-                56
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEFVIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-                "2606:4700:110:8fa7:b5f9:aca3:6295:b91a/128"
-            "private_key": "ECoopCvDfYlzc1/Mb5vsm73ARTvG1ir0R/i1M9kKHmU=",
-                252,
-                76,
-                187
-vmess://eyJhZGQiOiIxNDkuMzAuMjMyLjEwMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI0NjA5MDhiOC1kZTE2LTQyZTktYmQwZC0xOTE1MjJhYjkyYTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6IjE1MDk3IiwicHMiOiIwMOKchS3YqtmE2q/Ysdin2YUg2YXYpyDYsdinINiv2YbYqNin2YQg2qnZhtuM2K8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwiYWxsb3dJbnNlY3VyZSI6MX0=
-vmess://eyJhZGQiOiIxNDkuMzAuMjMyLjEwMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI0NjA5MDhiOC1kZTE2LTQyZTktYmQwZC0xOTE1MjJhYjkyYTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6IjE1MDk3IiwicHMiOiIwMOKchS1AR2hleWNoaUFtb296ZXNoIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsImFsbG93SW5zZWN1cmUiOjF9
-vmess://eyJhZGQiOiIxNDkuMzAuMjMyLjEwMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI0NjA5MDhiOC1kZTE2LTQyZTktYmQwZC0xOTE1MjJhYjkyYTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6IjE1MDk3IiwicHMiOiIwMOKchS3YstmGLdiy2YbYr9qv24wt2KLYstin2K/bjCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJhbGxvd0luc2VjdXJlIjoxfQ==
-vmess://eyJhZGQiOiIxNDkuMzAuMjMyLjEwMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI0NjA5MDhiOC1kZTE2LTQyZTktYmQwZC0xOTE1MjJhYjkyYTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6IjE1MDk3IiwicHMiOiIwMSDinILvuI8t8J+HuvCfh7hVUy1sYXN0IDE0KEBHaGV5Y2hpQW1vb3plc2gpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsImFsbG93SW5zZWN1cmUiOjF9
-vmess://eyJhZGQiOiJ1czEuZ3JwYy5zdHJlYW0iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6InVzMS5ncnBjLnN0cmVhbSIsImlkIjoiNjAzMWI1YzMtZDhiYS01NzU2LWI3MDgtZjYxMDg0YTJiNjc4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3VzMSIsInBvcnQiOiI4MCIsInBzIjoiMDIg4pyC77iPLfCfh7rwn4e4VVMtbGFzdCAxNChAR2hleWNoaUFtb296ZXNoKSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJhbGxvd0luc2VjdXJlIjoxfQ==
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.146:2376#03 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-vless://916cf097-d082-479b-ac57-7fcc0f80f17d@199.232.5.153:80?type=ws&encryption=none&host=JoinBede--VPNCUSTOMIZE---VPNCUSTOMIZE.Ir&path=Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2044&fp=chrome&allowInsecure=1#04 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-trojan://ttfang@69.84.182.216:2096?type=ws&path=Telegram🇨🇳&security=tls&sni=ttfang.fange.me&fp=chrome&allowInsecure=1#05 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-trojan://7778e684-f435-4166-bf9e-0256cb28bf10@download2hkt.windowsupdate.lol:443?type=tcp&security=tls&fp=chrome&allowInsecure=1#06 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-trojan://Aimer@135.84.76.152:2087?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me&fp=chrome&allowInsecure=1#07 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@142.202.48.74:445#08 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.107.226.146:7307#09 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-trojan://1bf16b43-0ad5-4512-a0e8-34bb8966278e@uk.stablize.top:443?type=tcp&security=tls&fp=chrome&allowInsecure=1#10 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.91.100.27:2375#11 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkTDF2eFhsd3VzV3NhVjlyVTJaSVB6@fox-usa.outlinekeys.net:34868#12 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-vmess://eyJhZGQiOiIxNDIuMC4xMzYuOSIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6Ind3dy45OTIyMjU5MS54eXoiLCJpZCI6IjA1MWI4NDRmLWVmZTMtNDg0Ny05MmFhLTY2YjVkZTBiNmQ0ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzEwMDUiLCJwcyI6IjEzIOKcgu+4jy3wn4e68J+HuFVTLWxhc3QgMTQoQEdoZXljaGlBbW9vemVzaCkiLCJzY3kiOiJhdXRvIiwic25pIjoid3d3Ljk5MjIyNTkxLnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsImFsbG93SW5zZWN1cmUiOjF9
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.91.100.27:5003#14 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-trojan://slch2024@198.71.233.195:2096?type=ws&path=Telegram🇨🇳&security=tls&sni=ocost-dy.wmlefl.cc&fp=chrome&allowInsecure=1#15 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:18435?type=tcp&security=tls&sni=hn.xiaohouzi.club&fp=chrome&allowInsecure=1#16 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
-vmess://eyJhZGQiOiJzZXJpYnVzLm9yZyIsImFpZCI6IjEiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0Ijoic2VyaWJ1cy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiIxNyDinILvuI8t8J+HuvCfh7hVUy1sYXN0IDE0KEBHaGV5Y2hpQW1vb3plc2gpIiwic2N5IjoiYXV0byIsInNuaSI6InNlcmlidXMub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwiYWxsb3dJbnNlY3VyZSI6MX0=
-                "2606:4700:110:840e:6bf1:469c:1569:96ec/128"
-            "private_key": "gBbAge7I5hvlK/zwMktpc8B5ppyogZ9b9ZOCgoP3xns=",
-                112,
-                239,
-                219
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEFNIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEdFIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEQiLCJzY3kiOiJhdXRvIiwic25pIjoiZXJyb3IuZXJyb3IiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEFSIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IFJTIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEFFIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEAiLCJzY3kiOiJhdXRvIiwic25pIjoiZXJyb3IuZXJyb3IiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#0✅-تلگرام ما را دنبال کنید
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#0✅-@GheychiAmoozesh
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#0✅-زن-زندگی-آزادی
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#1 ✂️-🇹🇷TR-last 14(@GheychiAmoozesh)
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942912656604786.malayer-prx-dnraacm.info:8880?mode=gun&security=none&encryption=none&type=grpc&fp=chrome&allowInsecure=1#2 ✂️-🇹🇷TR-last 14(@GheychiAmoozesh)
-vless://1a6fe500-59da-4598-8576-256f06765ffb@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d&allowInsecure=1#3 ✂️-🇹🇷TR-last 14(@GheychiAmoozesh)
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEFaIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-                "2606:4700:110:886f:f116:a571:b4bd:3272/128"
-            "private_key": "QJKGZaVRwpFvNr5DwxDV2eJ9rTlYJ9dzMV8Ptb8NplY=",
-                54,
-                208,
-                158
-                "2606:4700:110:8bbc:ca3e:c5a6:f337:351/128"
-            "private_key": "CDMFVsYeH9SQJ6QUeAF28Nfn3OXWJnKB6I4k40e5ynk=",
-                192,
-                224
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IE9NIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IFBLIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-                "2606:4700:110:8da1:f6bb:1e5b:5cf5:7943/128"
-            "private_key": "SLe4x7/0HSiiCKNcpMbPaPKwKyqN14j1mCRmFDcOh0Y=",
-                224,
-                254,
-                213
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEJIIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEpPIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IFVaIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IElSIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-                "2606:4700:110:8e29:f927:80dd:b716:6311/128"
-            "private_key": "aNU7QgJaWm9+teyy4km1PFa+7zPxO1JsVvZp7Q9aG1Q=",
-                173,
-                88,
-                249
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IENZIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEdSIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEJHIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IFAiLCJzY3kiOiJhdXRvIiwic25pIjoiZXJyb3IuZXJyb3IiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
-Error 1102 Ray ID: 98fb620b0851d1b3 • 2025-10-16 23:37:15 UTC
+Error 1102 Ray ID: 990395e3b9d7584b • 2025-10-17 23:30:44 UTC
 Worker exceeded resource limits
 What happened?
 You've requested a page on a website (v2.alicivil.workers.dev) that is on the Cloudflare network. An unknown error occurred while rendering the page.
 What can I do?
 If you are the owner of this website:
 refer to Workers - Errors and Exceptions and check Workers Logs for v2.alicivil.workers.dev.
-Cloudflare Ray ID: 98fb620b0851d1b3 • Your IP: Click to reveal • Performance & security by Cloudflare
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.126.237.38:989#0✅-تلگرام ما را دنبال کنید
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.126.237.38:989#0✅-@GheychiAmoozesh
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.126.237.38:989#0✅-زن-زندگی-آزادی
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.126.237.38:989#1 ✂️-🇷🇴RO-last 14(@GheychiAmoozesh)
+Cloudflare Ray ID: 990395e3b9d7584b • Your IP: Click to reveal • Performance & security by Cloudflare
+Error 1102 Ray ID: 99039629ec6272e0 • 2025-10-17 23:30:55 UTC
+Cloudflare Ray ID: 99039629ec6272e0 • Your IP: Click to reveal • Performance & security by Cloudflare
+Error 1102 Ray ID: 9903966eca552df4 • 2025-10-17 23:31:06 UTC
+Cloudflare Ray ID: 9903966eca552df4 • Your IP: Click to reveal • Performance & security by Cloudflare
+Error 1102 Ray ID: 990396b3d8972add • 2025-10-17 23:31:17 UTC
+Cloudflare Ray ID: 990396b3d8972add • Your IP: Click to reveal • Performance & security by Cloudflare
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4p2MIEVycm9yOiDYqNinINin2LnZhdin2YQg2YHbjNmE2KrYsdmH2KfbjCDYstuM2LEg2qnYp9mG2YHbjNqv2YfYpyDYrdiw2YEg2LTYr9mG2K8iLCJzY3kiOiJhdXRvIiwic25pIjoiZXJyb3IuZXJyb3IiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IHRydWUiLCJzY3kiOiJhdXRvIiwic25pIjoiZXJyb3IuZXJyb3IiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IENSIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pyFIC06IEBHaGV5Y2hpQW1vb3plc2gg2qnYp9mG2KfZhCDYqtmE2q/YsdmFIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+Error 1102 Ray ID: 99039740ee13d938 • 2025-10-17 23:31:40 UTC
+Cloudflare Ray ID: 99039740ee13d938 • Your IP: Click to reveal • Performance & security by Cloudflare
+Error 1102 Ray ID: 990397869e5a2acf • 2025-10-17 23:31:52 UTC
+Cloudflare Ray ID: 990397869e5a2acf • Your IP: Click to reveal • Performance & security by Cloudflare
+trojan://7a566d21dfcd0f12490275fd3dd3cfc4@133.18.200.127:443?security=tls&sni=trs01.bolab.net&allowInsecure=1&fp=chrome&type=tcp#0✅-تلگرام ما را دنبال کنید
+trojan://7a566d21dfcd0f12490275fd3dd3cfc4@133.18.200.127:443?security=tls&sni=trs01.bolab.net&allowInsecure=1&fp=chrome&type=tcp#0✅-@GheychiAmoozesh
+trojan://7a566d21dfcd0f12490275fd3dd3cfc4@133.18.200.127:443?security=tls&sni=trs01.bolab.net&allowInsecure=1&fp=chrome&type=tcp#0✅-زن-زندگی-آزادی
+trojan://7a566d21dfcd0f12490275fd3dd3cfc4@133.18.200.127:443?security=tls&sni=trs01.bolab.net&allowInsecure=1&fp=chrome&type=tcp#1 ✂️-🇯🇵JP-last 14(@GheychiAmoozesh)
+vless://a0305d71-433d-4abe-8538-3c5521df537b@154.19.187.53:33640?security=reality&sni=www.yahoo.com&allowInsecure=1&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&encryption=none#2 ✂️-🇯🇵JP-last 14(@GheychiAmoozesh)
+vmess://eyJhZGQiOiJ3d3cudGlrdG9rLmNvbS5qcDMudmllZmFzdC5uZXQiLCJhaWQiOiIwIiwiaG9zdCI6Ind3dy50aWt0b2suY29tLmpwMy52aWVmYXN0Lm5ldCIsImlkIjoiOWU3Njc2N2QtNGJmYS00ZjA0LWE4MDAtNDJlMmY2M2FmZWQyIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZpZWZhc3QiLCJwb3J0IjoiODAiLCJwcyI6IjMg4pyC77iPLfCfh6/wn4e1SlAtbGFzdCAxNChAR2hleWNoaUFtb296ZXNoKSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3d3cubGluZW1vLmpwIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiIsImZwIjoiY2hyb21lIiwiYWxsb3dJbnNlY3VyZSI6MX0=
+trojan://cd41b9d7-df15-46ad-a778-257b0851525a@35.79.36.24:443?security=tls&sni=sg02.trojanyyds.xyz&allowInsecure=1&fp=chrome&type=tcp#4 ✂️-🇯🇵JP-last 14(@GheychiAmoozesh)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.215:38388#5 ✂️-🇯🇵JP-last 14(@GheychiAmoozesh)
+hy2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@154.83.89.69:55182?obfs=salamander&obfs-password=TGFWe7Bd7LrJTVQr&mport=50000-60000&insecure=1&sni=Ab.ac#6 ✂️-🇯🇵JP-last 14(@GheychiAmoozesh)
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEdCIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJqYW1la2sub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJqYW1la2sub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IjAw4pyFLdiq2YTar9ix2KfZhSDZhdinINix2Kcg2K/Zhtio2KfZhCDaqdmG24zYryIsInNjeSI6ImF1dG8iLCJzbmkiOiJqYW1la2sub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwiYWxsb3dJbnNlY3VyZSI6MX0=
+vmess://eyJhZGQiOiJqYW1la2sub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJqYW1la2sub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IjAw4pyFLUBHaGV5Y2hpQW1vb3plc2giLCJzY3kiOiJhdXRvIiwic25pIjoiamFtZWtrLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiIsImFsbG93SW5zZWN1cmUiOjF9
+vmess://eyJhZGQiOiJqYW1la2sub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJqYW1la2sub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IjAw4pyFLdiy2YYt2LLZhtiv2q/bjC3Yotiy2KfYr9uMIiwic2N5IjoiYXV0byIsInNuaSI6ImphbWVray5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJhbGxvd0luc2VjdXJlIjoxfQ==
+vmess://eyJhZGQiOiJqYW1la2sub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJqYW1la2sub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IjAxIOKcgu+4jy3wn4ep8J+HqkRFLWxhc3QgMTQoQEdoZXljaGlBbW9vemVzaCkiLCJzY3kiOiJhdXRvIiwic25pIjoiamFtZWtrLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiIsImFsbG93SW5zZWN1cmUiOjF9
+vless://Own3dByHELiX@magazine.sentry-warrunner.xyz:443?mode=gun&security=reality&encryption=none&pbk=UrGT7bAn2UND3kx81QHACf_6qReN8V6_o70kZerONk4&fp=chrome&type=grpc&serviceName=Telegram-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers&sni=miro.com&sid=1c547814&allowInsecure=1#02 ✂️-🇩🇪DE-last 14(@GheychiAmoozesh)
+vless://f36b76da-6c4a-44c9-b6ad-4dbd374c7227@join.shhproxy.site:443?path=/&security=tls&encryption=none&host=ShhProxyFreViP.xn--85-pv2cl2k5x3fipr.org.&type=ws&sni=ShhProxyFreViP.xn--85-pv2cl2k5x3fipr.org.&fp=chrome&allowInsecure=1#03 ✂️-🇩🇪DE-last 14(@GheychiAmoozesh)
+vless://025a2602-e9d0-40db-92ea-dfc256ef2a6a@gozargahvpn-gozargahvpn-gozargahvpn.mymtn.sbs:443?type=tcp&path=/@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN&headerType=http&security=none&fp=chrome&allowInsecure=1#04 ✂️-🇩🇪DE-last 14(@GheychiAmoozesh)
+vless://650b32f1-95cb-454b-c94b-a50716684721@164.90.239.139:443?security=&encryption=none&type=grpc&fp=chrome&allowInsecure=1#05 ✂️-🇩🇪DE-last 14(@GheychiAmoozesh)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWWxjanJabUE2eFJsQTVTdnRKSTly@77.83.246.74:443#06 ✂️-🇩🇪DE-last 14(@GheychiAmoozesh)
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc&fp=chrome&allowInsecure=1#07 ✂️-🇩🇪DE-last 14(@GheychiAmoozesh)
+Error 1102 Ray ID: 990398a2ed0a2ee5 • 2025-10-17 23:32:37 UTC
+Cloudflare Ray ID: 990398a2ed0a2ee5 • Your IP: Click to reveal • Performance & security by Cloudflare
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEZSIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJrci5tYXlpeXVuLnZpcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0Ijoia3IubWF5aXl1bi52aXAiLCJpZCI6IjU0YjNlZjg3LTAwODQtNDM2Mi1hZjU3LTJmYjQ5NGQ4Y2ExNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IjAw4pyFLdiq2YTar9ix2KfZhSDZhdinINix2Kcg2K/Zhtio2KfZhCDaqdmG24zYryIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJhbGxvd0luc2VjdXJlIjoxfQ==
+vmess://eyJhZGQiOiJrci5tYXlpeXVuLnZpcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0Ijoia3IubWF5aXl1bi52aXAiLCJpZCI6IjU0YjNlZjg3LTAwODQtNDM2Mi1hZjU3LTJmYjQ5NGQ4Y2ExNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IjAw4pyFLUBHaGV5Y2hpQW1vb3plc2giLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwiYWxsb3dJbnNlY3VyZSI6MX0=
+vmess://eyJhZGQiOiJrci5tYXlpeXVuLnZpcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0Ijoia3IubWF5aXl1bi52aXAiLCJpZCI6IjU0YjNlZjg3LTAwODQtNDM2Mi1hZjU3LTJmYjQ5NGQ4Y2ExNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IjAw4pyFLdiy2YYt2LLZhtiv2q/bjC3Yotiy2KfYr9uMIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsImFsbG93SW5zZWN1cmUiOjF9
+vmess://eyJhZGQiOiJrci5tYXlpeXVuLnZpcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0Ijoia3IubWF5aXl1bi52aXAiLCJpZCI6IjU0YjNlZjg3LTAwODQtNDM2Mi1hZjU3LTJmYjQ5NGQ4Y2ExNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IjAxIOKcgu+4jy3wn4e68J+HuFVTLWxhc3QgMTQoQEdoZXljaGlBbW9vemVzaCkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwiYWxsb3dJbnNlY3VyZSI6MX0=
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@167.88.61.59:8118#02 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
+vless://3c7a1227-5383-3a19-7084-76624ec8f84f@213.232.123.10:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=SnjXP0GFBVxg3C7sbWUJ5JqKpnlg_BNMXuqoE78YhVE&sid=&allowInsecure=1#03 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.99:2376#04 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hnm.xiaohouzi.club:17109?type=tcp&security=tls&sni=$$$$$hnm.xiaohouzi.club&fp=chrome&allowInsecure=1#05 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
+vmess://eyJhZGQiOiIxMDguMTg2LjI2LjE3NCIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6Ind3dy45Mzk3NjA5MS54eXoiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE3Mzc2MjYxODk1MTAiLCJwb3J0IjoiMzcwMDQiLCJwcyI6IjA2IOKcgu+4jy3wn4e68J+HuFVTLWxhc3QgMTQoQEdoZXljaGlBbW9vemVzaCkiLCJzY3kiOiJhdXRvIiwic25pIjoid3d3LjkzOTc2MDkxLnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsImFsbG93SW5zZWN1cmUiOjF9
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.107.226.48:5003#07 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.107.226.132:3389#08 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
+trojan://Aimer@38.207.190.141:587?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me&fp=chrome&allowInsecure=1#09 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@guy-trace-lyric.stark-industries.solutions:443?type=tcp&security=tls&fp=chrome&allowInsecure=1#10 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
+vless://40e07aa0-665e-4d77-ab88-2aa02fca83b7@62.60.179.68:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.latimes.com&fp=chrome&security=reality&pbk=e3dW-3-dYEVMkTUNOlqVZY2RuSXK-DxhvmdVn1lijxY&sid=8c0bcf&allowInsecure=1#11 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.48.58:7307#12 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.91.100.27:443#13 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@142.202.48.7:8009#14 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
+trojan://slch2024@199.34.228.87:2096?type=ws&path=Telegram🇨🇳&security=tls&sni=ocost-dy.wmlefl.cc&fp=chrome&allowInsecure=1#15 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@142.202.48.99:3306#16 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
+trojan://ttfang@50.62.198.216:2096?type=ws&path=Telegram🇨🇳&security=tls&sni=ttfang.fange.me&fp=chrome&allowInsecure=1#17 ✂️-🇺🇸US-last 14(@GheychiAmoozesh)
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IElUIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEFNIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEdFIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+Error 1102 Ray ID: 99039a4a6f622f7c • 2025-10-17 23:33:45 UTC
+Cloudflare Ray ID: 99039a4a6f622f7c • Your IP: Click to reveal • Performance & security by Cloudflare
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEFSIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+Error 1102 Ray ID: 99039ad46c6c2f73 • 2025-10-17 23:34:06 UTC
+Cloudflare Ray ID: 99039ad46c6c2f73 • Your IP: Click to reveal • Performance & security by Cloudflare
+Error 1102 Ray ID: 99039b1978f87b5d • 2025-10-17 23:34:26 UTC
+Cloudflare Ray ID: 99039b1978f87b5d • Your IP: Click to reveal • Performance & security by Cloudflare
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEAiLCJzY3kiOiJhdXRvIiwic25pIjoiZXJyb3IuZXJyb3IiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IFRSIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+Error 1102 Ray ID: 99039c1cba662af1 • 2025-10-17 23:34:59 UTC
+Cloudflare Ray ID: 99039c1cba662af1 • Your IP: Click to reveal • Performance & security by Cloudflare
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEtXIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06ICEiLCJzY3kiOiJhdXRvIiwic25pIjoiZXJyb3IuZXJyb3IiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IE9NIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4p2MIEVycm9yOiBsaXN0IGVtcHR5Iiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEgiLCJzY3kiOiJhdXRvIiwic25pIjoiZXJyb3IuZXJyb3IiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
+Error 1102 Ray ID: 99039db9be8e7e95 • 2025-10-17 23:36:06 UTC
+Cloudflare Ray ID: 99039db9be8e7e95 • Your IP: Click to reveal • Performance & security by Cloudflare
+Error 1102 Ray ID: 99039e048f113233 • 2025-10-17 23:36:17 UTC
+Cloudflare Ray ID: 99039e048f113233 • Your IP: Click to reveal • Performance & security by Cloudflare
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IFVaIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+Error 1102 Ray ID: 99039e91ac2a2b77 • 2025-10-17 23:36:40 UTC
+Cloudflare Ray ID: 99039e91ac2a2b77 • Your IP: Click to reveal • Performance & security by Cloudflare
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IElMIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IENZIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+Error 1102 Ray ID: 99039f627af6a2b3 • 2025-10-17 23:37:13 UTC
+Cloudflare Ray ID: 99039f627af6a2b3 • Your IP: Click to reveal • Performance & security by Cloudflare
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IEJHIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pqg77iPIC06IFAiLCJzY3kiOiJhdXRvIiwic25pIjoiZXJyb3IuZXJyb3IiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
+Error 1102 Ray ID: 9903a032893a2f09 • 2025-10-17 23:37:46 UTC
+Cloudflare Ray ID: 9903a032893a2f09 • Your IP: Click to reveal • Performance & security by Cloudflare
+Error 1102 Ray ID: 9903a0771b2a2f62 • 2025-10-17 23:37:58 UTC
+Cloudflare Ray ID: 9903a0771b2a2f62 • Your IP: Click to reveal • Performance & security by Cloudflare
